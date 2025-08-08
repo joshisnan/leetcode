@@ -1,5 +1,6 @@
-working
 notes.txt
+working
+.vscode
 **/*.exe
 **/sol
 **/__pycache__
